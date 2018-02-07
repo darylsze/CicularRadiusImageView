@@ -1,7 +1,7 @@
 # CicularRadiusImageView
 
 Code example for people who are seeking for circular or radius-support imageview
-
+> [very simple implementation and *have no plan for maintenance*. Feel free to use if its useful for you.]
 
 Simple usage:
 1. Copy file into your project
